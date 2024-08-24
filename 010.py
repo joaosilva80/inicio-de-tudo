@@ -1,5 +1,4 @@
 # Initialize the sum variable
-from mimetypes import inited
 
 total_sum = 0
 
